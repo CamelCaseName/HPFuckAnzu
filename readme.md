@@ -6,6 +6,7 @@ To install this Mod, download the .zip file form the [releases](https://github.c
 You also need [MelonLoader](https://github.com/LavaGang/MelonLoader/releases/tag/v0.4.3), grab the latest release here, download + install for House Party
 
 Lastly you place the HPFuckAnzu.dll into the Mod Folder inside the House Party game folder.
+Maybe you also need some dlls, i haven't checked, in that case you can find them all inside the MelonLoader folder
 
 ## -1. compiling yourself
 download/clone the source code, open in VS2019. 
